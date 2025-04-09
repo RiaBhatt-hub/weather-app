@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 🌦 Weather Dashboard App
+
+This is a simple Weather Dashboard built with React.js.  
+You can search for any city and view the current weather, recent search history, and a 5-day weather forecast.
+
+---
+
+## 🌟 Live Demo
+👉 [Live Website](https://weather-app-phi-black.vercel.app/)
+
+---
+
+## 🛠 Tech Stack Used
+- React.js
+- Axios (for API requests)
+- OpenWeatherMap API
+- Vercel (for deployment)
+
+
+
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/RiaBhatt-hub/weather-app
